@@ -7,6 +7,7 @@ public class Movement : MonoBehaviour
 
     [SerializeField] float jumpForce;
     [SerializeField] float speed;
+    [SerializeField] ParticleSystem particle;
 
     private Rigidbody _rb;
     private float _distToGround;
@@ -43,6 +44,8 @@ public class Movement : MonoBehaviour
     {
         if (coll.gameObject.tag == "Obstacle")
         {
+            particle.Play();
+
             GameController.Instance.CanMove = false;
             Debug.Log(Menu.PlayerName.ToString()+" is dead \n" + GameController.Instance.UIController.Distance.text );
 
