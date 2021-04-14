@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-03T20:46:05.185+03:00
+  initializedAtString: 2021-04-03T20:31:53.470+03:00
+  entries:
+  - path: Assets\Scripts\ShapeControl.cs
+    fullPath: "C:\\Users\\worka\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SW_Project\\Assets\\Scripts\\ShapeControl.cs"
+    projectPath: Assets\Scripts\ShapeControl.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\manifest.json
+    fullPath: "C:\\Users\\worka\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SW_Project\\Packages\\manifest.json"
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\packages-lock.json
+    fullPath: "C:\\Users\\worka\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SW_Project\\Packages\\packages-lock.json"
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: "C:\\Users\\worka\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SW_Project\\ProjectSettings\\ProjectVersion.txt"
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

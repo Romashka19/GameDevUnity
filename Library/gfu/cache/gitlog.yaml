@@ -1,0 +1,780 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-03-31T12:58:30.448+03:00
+  initializedAtString: 2021-03-31T12:58:30.448+03:00
+  log:
+  - commitID: 5de4bf4182d2909dca4875cbe173514799195aec
+    mergeA: 
+    mergeB: 
+    authorName: Yevhenii Stoiev
+    authorEmail: stoiev.yevhenii@outlook.com
+    commitEmail: stoiev.yevhenii@outlook.com
+    commitName: Yevhenii Stoiev
+    summary: Changed particle creation logic
+    description: 
+    timeString: 2021-03-31T12:55:11.000+03:00
+    commitTimeString: 2021-03-31T12:55:11.000+03:00
+    changes:
+    - path: Assets\Scripts\ShapeControl.cs
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Scripts\ShapeControl.cs
+      projectPath: Assets\Scripts\ShapeControl.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 61ad49a99e0ee7bd47319b662354ce8f9da260fd
+    mergeA: 
+    mergeB: 
+    authorName: Yevhenii Stoiev
+    authorEmail: stoiev.yevhenii@outlook.com
+    commitEmail: stoiev.yevhenii@outlook.com
+    commitName: Yevhenii Stoiev
+    summary: Added star shape recognition
+    description: 
+    timeString: 2021-03-31T12:26:53.000+03:00
+    commitTimeString: 2021-03-31T12:26:53.000+03:00
+    changes:
+    - path: Assets\Animations.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Title.controller
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Animations\Title.controller
+      projectPath: Assets\Animations\Title.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Title.controller.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Animations\Title.controller.meta
+      projectPath: Assets\Animations\Title.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\title_move.anim
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Animations\title_move.anim
+      projectPath: Assets\Animations\title_move.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\title_move.anim.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Animations\title_move.anim.meta
+      projectPath: Assets\Animations\title_move.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Decor.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Decor.meta
+      projectPath: Assets\Decor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Decor\title_glow.png
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Decor\title_glow.png
+      projectPath: Assets\Decor\title_glow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Decor\title_glow.png.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Decor\title_glow.png.meta
+      projectPath: Assets\Decor\title_glow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Sportrop.ttf
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Fonts\Sportrop.ttf
+      projectPath: Assets\Fonts\Sportrop.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Sportrop.ttf.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Fonts\Sportrop.ttf.meta
+      projectPath: Assets\Fonts\Sportrop.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\MainPage.unity
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\MainPage.unity
+      projectPath: Assets\MainPage.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\ShapeControl.cs
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Scripts\ShapeControl.cs
+      projectPath: Assets\Scripts\ShapeControl.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\star.png
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\star.png
+      projectPath: Assets\Shapes\Sprites\star.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 2dabba92261bec18a9a81c882f2c066a638c3c79
+    mergeA: 
+    mergeB: 
+    authorName: Yevhenii Stoiev
+    authorEmail: stoiev.yevhenii@outlook.com
+    commitEmail: stoiev.yevhenii@outlook.com
+    commitName: Yevhenii Stoiev
+    summary: Add assets
+    description: 
+    timeString: 2021-03-30T16:49:08.000+03:00
+    commitTimeString: 2021-03-30T16:49:08.000+03:00
+    changes:
+    - path: .vsconfig
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\MainPage.unity
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\MainPage.unity
+      projectPath: Assets\MainPage.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\MainPage.unity.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\MainPage.unity.meta
+      projectPath: Assets\MainPage.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FigureControl.cs
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Scripts\FigureControl.cs
+      projectPath: Assets\Scripts\FigureControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FigureControl.cs.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Scripts\FigureControl.cs.meta
+      projectPath: Assets\Scripts\FigureControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\ShapeControl.cs
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Scripts\ShapeControl.cs
+      projectPath: Assets\Scripts\ShapeControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\ShapeControl.cs.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Scripts\ShapeControl.cs.meta
+      projectPath: Assets\Scripts\ShapeControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes.meta
+      projectPath: Assets\Shapes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab.meta
+      projectPath: Assets\Shapes\Prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Cube2D.prefab
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Cube2D.prefab
+      projectPath: Assets\Shapes\Prefab\Cube2D.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Cube2D.prefab.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Cube2D.prefab.meta
+      projectPath: Assets\Shapes\Prefab\Cube2D.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Plane2D.prefab
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Plane2D.prefab
+      projectPath: Assets\Shapes\Prefab\Plane2D.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Plane2D.prefab.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Plane2D.prefab.meta
+      projectPath: Assets\Shapes\Prefab\Plane2D.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Star2D.prefab
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Star2D.prefab
+      projectPath: Assets\Shapes\Prefab\Star2D.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Star2D.prefab.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Star2D.prefab.meta
+      projectPath: Assets\Shapes\Prefab\Star2D.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Triangle2D.prefab
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Triangle2D.prefab
+      projectPath: Assets\Shapes\Prefab\Triangle2D.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Prefab\Triangle2D.prefab.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Prefab\Triangle2D.prefab.meta
+      projectPath: Assets\Shapes\Prefab\Triangle2D.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites.meta
+      projectPath: Assets\Shapes\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\cube.png
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\cube.png
+      projectPath: Assets\Shapes\Sprites\cube.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\cube.png.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\cube.png.meta
+      projectPath: Assets\Shapes\Sprites\cube.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\plane.png
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\plane.png
+      projectPath: Assets\Shapes\Sprites\plane.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\plane.png.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\plane.png.meta
+      projectPath: Assets\Shapes\Sprites\plane.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\star.png
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\star.png
+      projectPath: Assets\Shapes\Sprites\star.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\star.png.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\star.png.meta
+      projectPath: Assets\Shapes\Sprites\star.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\triangle.png
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\triangle.png
+      projectPath: Assets\Shapes\Sprites\triangle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Shapes\Sprites\triangle.png.meta
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\Shapes\Sprites\triangle.png.meta
+      projectPath: Assets\Shapes\Sprites\triangle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: c88727448d6b5c2c6be76d5530441fff35e652f3
+    mergeA: 
+    mergeB: 
+    authorName: Yevhenii Stoiev
+    authorEmail: stoiev.yevhenii@outlook.com
+    commitEmail: stoiev.yevhenii@outlook.com
+    commitName: Yevhenii Stoiev
+    summary: Initial commit
+    description: 
+    timeString: 2021-03-30T16:43:12.000+03:00
+    commitTimeString: 2021-03-30T16:43:12.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\stoie\OneDrive\University\IV\Second_Sem\GameDev\SW\SW_Project\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
